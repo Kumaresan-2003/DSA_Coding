@@ -18,7 +18,7 @@ This repository contains various scripts and implementations related to data str
 
 ### Prerequisites
 
-Ensure you have a programming environment set up to run the scripts. The scripts are primarily written in [Programming Language] (e.g., Python, Java, C++). Ensure the necessary compiler or interpreter is installed.
+Ensure you have a programming environment set up to run the scripts. The scripts are primarily written in Java. Ensure the necessary compiler or interpreter is installed.
 
 ### Running the Scripts
 
